@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "D9gIMseMlck=",
+  "dgSpecHash": "KOpomWvTitc=",
   "success": true,
-  "projectFilePath": "/workspaces/Tarea_dia_2/Tarea_dia_2.csproj",
+  "projectFilePath": "/workspaces/segunda-tarea-jgramirez1905-cyber/Tarea_dia_2.csproj",
   "expectedPackageFiles": [
     "/home/codespace/.nuget/packages/microsoft.codecoverage/17.8.0/microsoft.codecoverage.17.8.0.nupkg.sha512",
     "/home/codespace/.nuget/packages/microsoft.net.test.sdk/17.8.0/microsoft.net.test.sdk.17.8.0.nupkg.sha512",

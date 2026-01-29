@@ -6,11 +6,27 @@ using System;
 /// INSTRUCCIONES:
 /// Completa el código para realizar operaciones matemáticas básicas.
 /// 
-/// REGLAS:
-/// - Si operation es 1 → suma num1 + num2
-/// - Si operation es 2 → resta num1 - num2
-/// - Si operation es 3 → multiplica num1 * num2
-/// 
+
+    static double calcul(double num1, double num2, int operation)
+    {
+        double resultado = 0;
+
+        switch (operation)
+        {
+            case 1:
+                resultado = num1 + num2;
+                break;
+            case 2:
+                resultado = num1 - num2;
+                break;
+            case 3:
+                resultado = num1 * num2;
+                break;
+        }
+
+        return resultado;
+    }
+
 /// EJEMPLOS:
 /// Calculate(5, 3, 1) → 8 (porque 5 + 3 = 8)
 /// Calculate(10, 4, 2) → 6 (porque 10 - 4 = 6)

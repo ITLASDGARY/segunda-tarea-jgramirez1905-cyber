@@ -4183,11 +4183,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/Tarea_dia_2/Tarea_dia_2.csproj",
+      "projectUniqueName": "/workspaces/segunda-tarea-jgramirez1905-cyber/Tarea_dia_2.csproj",
       "projectName": "Tarea_dia_2",
-      "projectPath": "/workspaces/Tarea_dia_2/Tarea_dia_2.csproj",
+      "projectPath": "/workspaces/segunda-tarea-jgramirez1905-cyber/Tarea_dia_2.csproj",
       "packagesPath": "/home/codespace/.nuget/packages/",
-      "outputPath": "/workspaces/Tarea_dia_2/obj/",
+      "outputPath": "/workspaces/segunda-tarea-jgramirez1905-cyber/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/codespace/.nuget/NuGet/NuGet.Config"

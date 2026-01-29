@@ -5,12 +5,17 @@ using System;
 /// 
 /// INSTRUCCIONES:
 /// Completa el código para detectar si un número es par o impar.
+///
 /// 
-/// REGLAS:
-/// - Si number dividido entre 2 da residuo 0 → retorna "PAR"
-/// - Si number dividido entre 2 da residuo 1 → retorna "IMPAR"
-/// - Usa el operador módulo % para obtener el residuo
-/// 
+    if (number % 2 == 0)
+    {
+        return "PAR";
+    }
+    else
+    {
+        return "IMPAR";
+    }
+
 /// EJEMPLOS:
 /// DetectEvenOdd(4) → "PAR" 
 /// DetectEvenOdd(7) → "IMPAR" 

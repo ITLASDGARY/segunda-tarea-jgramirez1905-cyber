@@ -97,3 +97,12 @@
 /workspaces/Tarea_dia_2/obj/Debug/net9.0/Tarea_dia_2.pdb
 /workspaces/Tarea_dia_2/obj/Debug/net9.0/Tarea_dia_2.genruntimeconfig.cache
 /workspaces/Tarea_dia_2/obj/Debug/net9.0/ref/Tarea_dia_2.dll
+/workspaces/segunda-tarea-jgramirez1905-cyber/obj/Debug/net9.0/Tarea_dia_2.csproj.AssemblyReference.cache
+/workspaces/segunda-tarea-jgramirez1905-cyber/obj/Debug/net9.0/Tarea_dia_2.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/segunda-tarea-jgramirez1905-cyber/obj/Debug/net9.0/Tarea_dia_2.AssemblyInfoInputs.cache
+/workspaces/segunda-tarea-jgramirez1905-cyber/obj/Debug/net9.0/Tarea_dia_2.AssemblyInfo.cs
+/workspaces/segunda-tarea-jgramirez1905-cyber/obj/Debug/net9.0/Tarea_dia_2.csproj.CoreCompileInputs.cache
+/workspaces/segunda-tarea-jgramirez1905-cyber/obj/Debug/net9.0/Tarea_dia_2.sourcelink.json
+/workspaces/segunda-tarea-jgramirez1905-cyber/obj/Debug/net9.0/Tarea_dia_2.dll
+/workspaces/segunda-tarea-jgramirez1905-cyber/obj/Debug/net9.0/refint/Tarea_dia_2.dll
+/workspaces/segunda-tarea-jgramirez1905-cyber/obj/Debug/net9.0/Tarea_dia_2.pdb
