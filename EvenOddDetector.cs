@@ -7,15 +7,7 @@ using System;
 /// Completa el código para detectar si un número es par o impar.
 ///
 /// 
-    if (number % 2 == 0)
-    {
-        return "PAR";
-    }
-    else
-    {
-        return "IMPAR";
-    }
-
+    
 /// EJEMPLOS:
 /// DetectEvenOdd(4) → "PAR" 
 /// DetectEvenOdd(7) → "IMPAR" 
@@ -27,6 +19,16 @@ public class EvenOddDetector
     {
         string resultado = ""; 
         
+        if (number % 2 == 0)
+        {
+
+            return "PAR";
+        }
+        else
+        {
+            return "IMPAR";
+        }
+
         // TODO: Usa el operador % y if/else para determinar si es PAR o IMPAR
         
         return resultado;

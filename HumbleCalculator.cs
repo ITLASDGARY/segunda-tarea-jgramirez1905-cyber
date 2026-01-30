@@ -7,9 +7,16 @@ using System;
 /// Completa el código para realizar operaciones matemáticas básicas.
 /// 
 
-    static double calcul(double num1, double num2, int operation)
+/// EJEMPLOS:
+/// Calculate(5, 3, 1) → 8 (porque 5 + 3 = 8)
+/// Calculate(10, 4, 2) → 6 (porque 10 - 4 = 6)
+/// Calculate(6, 7, 3) → 42 (porque 6 * 7 = 42)
+/// </summary>
+public class HumbleCalculator
+{
+    public static double Calculate(double num1, double num2, int operation)
     {
-        double resultado = 0;
+        double resultado = 0; 
 
         switch (operation)
         {
@@ -23,21 +30,6 @@ using System;
                 resultado = num1 * num2;
                 break;
         }
-
-        return resultado;
-    }
-
-/// EJEMPLOS:
-/// Calculate(5, 3, 1) → 8 (porque 5 + 3 = 8)
-/// Calculate(10, 4, 2) → 6 (porque 10 - 4 = 6)
-/// Calculate(6, 7, 3) → 42 (porque 6 * 7 = 42)
-/// </summary>
-public class HumbleCalculator
-{
-    public static double Calculate(double num1, double num2, int operation)
-    {
-        double resultado = 0; 
-        
         // TODO: Usa switch para calcular según la operación
         // Ejemplo: switch(operation) { case 1: resultado = num1 + num2; break; ... }
         
